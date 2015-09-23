@@ -1,2 +1,2 @@
 # escuela
-Web en drupal de una escuela
+Web en drupal de una escuela.
